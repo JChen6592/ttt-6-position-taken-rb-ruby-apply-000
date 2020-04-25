@@ -5,4 +5,5 @@ def position_taken?(board,move)
     return board[move]
   else
     return false 
-  
+  end
+end

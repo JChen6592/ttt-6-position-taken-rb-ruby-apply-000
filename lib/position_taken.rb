@@ -1,5 +1,5 @@
 # code your #position_taken? method here!
 board = Array.new(9, " ")
-def position_taken?(move)
+def position_taken?(board,move)
   
   
